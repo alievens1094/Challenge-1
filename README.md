@@ -1,2 +1,1 @@
-# Challenge-1
-module 1 challenge
+# Code Refactor Starter Code
